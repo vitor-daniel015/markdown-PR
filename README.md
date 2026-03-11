@@ -30,3 +30,7 @@ if (a==b)
 if (a!=b) 
     console.log('diferentes')
 ```
+### Tipagem Variavel
+```
+ Nunca utilizar var, sempre usar let ou const
+```
